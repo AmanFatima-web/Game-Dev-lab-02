@@ -2,5 +2,5 @@
 
 Hands on Git Basics
 
-player speed-6
+player speed-7
 
